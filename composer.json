@@ -1,0 +1,17 @@
+{
+    "name": "Correios Offline Opencart",
+    "description": "Correios Offline para Opencart",
+    "type": "library",
+    "keywords": [],
+    "homepage": "http://www.kauser.com.br/",
+    "license": "",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": {
+            "KauserCorreios": "src/"
+        }
+    }
+}

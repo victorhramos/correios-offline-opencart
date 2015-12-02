@@ -1,1 +1,1 @@
-correios-offline
+correios-offline-opencart
